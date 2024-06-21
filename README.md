@@ -16,8 +16,6 @@ Im hoping that by joining this bootcamp im gonna get a lot new skillset to help 
 | Github    | [ilmanhanif](https://github.com/ilmanhanif)                      |
 | LinkedIn  | [Ilman Hanif Jafroghin](https://www.linkedin.com/in/ilmanhanif/) |
 
-[Netlify link](https://stunning-pixie-84551c.netlify.app/)
-
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_rEaNyCz)
 
 # About Website👀
@@ -43,3 +41,5 @@ Interested in being a part of Butterfest? Whether you want to attend, volunteer,
 ### Contact
 
 Have questions or need more information? Reach out to us through the Contact page. Find our contact details, social media links, and a form for general inquiries.
+
+[Netlify link](https://butterfest.netlify.app/)
