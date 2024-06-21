@@ -1,0 +1,81 @@
+/* coding start */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24242a;
+
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+li,
+a,
+button {
+    font-weight: 500;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    position: sticky;
+    top: 0;
+    height: 80px;
+    z-index: 999;
+}
+
+.logo {
+    opacity: 80%;
+    width: 150px;
+
+    margin-left: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.logo:hover {
+    opacity: 100%;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover {
+    color: #dae825;
+}
+
+.welcome {
+    background-color: white;
+}
+
+.artist {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.artist-card {
+    background-color: white;
+    width: 300px;
+    height: 200px;
+}
+
+.artist-img {
+    max-width: 90%;
+}
