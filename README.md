@@ -19,3 +19,27 @@ Im hoping that by joining this bootcamp im gonna get a lot new skillset to help 
 [Netlify link](https://stunning-pixie-84551c.netlify.app/)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_rEaNyCz)
+
+# About Website👀
+
+Welcome to the official repository for the Butterfest website! This project serves as the comprehensive online guide for Butterfest, Indonesia's premier music festival. Below is an overview of the website's features and content.
+
+![butterfest.jpg](images/musicfest3.png)
+
+## Website Features
+
+### About Us
+
+Discover the story behind Butterfest. Learn about our mission to unite people through music, the origins of the festival, and what the name "Butterfest" symbolizes. This section also highlights our commitment to cultural diversity and environmental sustainability.
+
+### Lineup
+
+Stay updated with the latest artist announcements and performance schedules. From international headliners to local talent, get detailed information about each performer and their music.
+
+### Join Us
+
+Interested in being a part of Butterfest? Whether you want to attend, volunteer, perform, or sponsor, this section provides all the information and a simple form to get involved. Fill out the form to express your interest and join the Butterfest community.
+
+### Contact
+
+Have questions or need more information? Reach out to us through the Contact page. Find our contact details, social media links, and a form for general inquiries.
